@@ -3,8 +3,8 @@
 Proyecto pequeño de ejemplo que muestra cómo aplicar **Clean Architecture**
 en una app de React, con dos módulos:
 
-- **Login** funcional (sin backend real, con un usuario "quemado" y persistencia en `localStorage`).
-- **Registro** de solo interfaz (no está conectado a ningún caso de uso, tal como se pidió).
+- **Login** funcional (sin backend real, con un usuario "mockdata" y persistencia en `localStorage`).
+- **Registro** de solo interfaz (no está conectado a ningún caso de uso).
 - **CRUD de productos** (`id`, `nombre`, `precio`, `descripcion`), persistido en `localStorage`.
 
 ## 1. Idea general de la arquitectura
