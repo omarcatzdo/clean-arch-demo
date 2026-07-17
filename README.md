@@ -105,8 +105,8 @@ Abre la URL que muestre la terminal (por defecto `http://localhost:5173`).
 Credenciales de acceso:
 
 ```
-Email:      demo@demo.com
-Contraseña: 123456
+Email:      admin@fitgym.com
+Contraseña: 1111
 ```
 
 Otros scripts disponibles:
