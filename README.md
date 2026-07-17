@@ -1,4 +1,5 @@
-# Clean Architecture Demo (React + Vite)
+# Clean Architecture Demo ([https://es.react.dev/](React)* + [https://es.vite.dev/guide/](Vite))
+Visita [este enlace](https://react.dev/learn/build-a-react-app-from-scratch) para obtener mas información sobre react.
 
 Proyecto pequeño de ejemplo que muestra cómo aplicar **Clean Architecture**
 en una app de React, con dos módulos:
